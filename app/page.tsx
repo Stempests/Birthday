@@ -17,7 +17,7 @@ const ParticlesBackground = dynamic(
 );
 
 // Brother's name — change here to update everywhere
-export const BROTHER_NAME = 'Bhaiyaa';
+const BROTHER_NAME = 'Bhaiyaa';
 
 export default function Home() {
   return (
